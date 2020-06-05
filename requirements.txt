@@ -2,7 +2,7 @@ amqp==1.4.9
 anyjson==0.3.3
 billiard==3.3.0.23
 celery==3.1.25
-Django==1.11.23
+Django==1.11.29
 django-celery==3.2.1
 django-celery-beat==1.0.1
 django-cors-headers==2.1.0
